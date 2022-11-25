@@ -1,0 +1,18 @@
+var a="name:naveen";
+var b="age:23";
+var c="qualification:Bsc IT";
+var d="location:tiruppur";
+var e="phone number:555 555 555";
+var f="region:india";
+var g="company:accenture";
+var h="position:front end developer";
+var i="course:full stack developer";
+var j="institute:guvi";
+
+
+
+let x=[a,b,c,d,e,f,g,h,i,j]
+for (var i=0;i<=x.length;i++){
+    console.log(x[i]);
+
+}
